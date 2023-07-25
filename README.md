@@ -56,11 +56,4 @@ Your contributions will be reviewed, and if everything looks good, they will be 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-Remember to replace the placeholders with your actual repository information and provide a live demo link if you have the calculator hosted online. Feel free to customize the README further to include additional information about the project or any other relevant details. Happy coding!
 
-
-
-
-
-
-Regenerate response
